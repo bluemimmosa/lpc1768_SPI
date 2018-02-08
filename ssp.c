@@ -1,6 +1,9 @@
+/* Niraj Khadka
+console1913@gmail.com
+2018, kathmandu, nepal
+*/
+
 #include "ssp.h"
-
-
 
 int init_ssp(enum PORTS){
 	
