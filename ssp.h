@@ -1,3 +1,8 @@
+/* Niraj Khadka
+console1913@gmail.com
+2018, kathmandu, nepal
+*/
+
 #ifndef SSP_H
 #define SSP_H
 
